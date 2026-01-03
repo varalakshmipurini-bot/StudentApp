@@ -71,3 +71,39 @@ git clone https://github.com/varalakshmipurini-bot/StudentApp.git
 3.Configure PostgreSQL database (see above instructions)
 
 4.Run the main class StudentController.java
+
+🖼 Screenshots
+🏠 Main Menu
+
+
+Shows the main menu options of the application.
+
+➕ Add Student
+
+
+Add a new student with details like name and marks.
+
+✏ Update Student
+
+
+Update details of an existing student.
+
+📋 View Students
+
+
+View all student records in a table format.
+
+❌ Delete Student
+
+
+Remove a student record from the system.
+
+🚪 Exit
+
+
+Exit the application gracefully.
+
+👩‍💻 Author
+
+Varalakshmi Purini
+
